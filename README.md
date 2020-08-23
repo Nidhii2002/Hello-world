@@ -1,4 +1,5 @@
 # Hello-world
-Hello, I am Nidhi!
+Hello,I am Nidhi!
+ This is my first repository.
 
- I am an aspiring Web Developer.
+ 
